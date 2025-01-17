@@ -33,9 +33,10 @@
 
 ###
 
-<br clear="both">
+<br clear="both"> 
 
-<img src="https://raw.githubusercontent.com/divyavenn/divyavenn/output/snake.svg" alt="Snake animation" />
+![Snake animation](<img src="https://raw.githubusercontent.com/divyavenn/divyavenn/output/snake.svg" alt="Snake animation" />)
+
 
 ###
 
