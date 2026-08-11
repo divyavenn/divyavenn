@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Divya</h2>
+<h2 align="left">hi, i'm divya. for my whole life story visit divyavenn.com</h2>
 
 ###
 
